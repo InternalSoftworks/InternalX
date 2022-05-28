@@ -1,4 +1,4 @@
-local url = ""
+local url = "https://github.com/InternalSoftworks/InternalX/tree/main/scripts"
 
 local games = {
     [5602055394] = "Hood Modded";
